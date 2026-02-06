@@ -1,0 +1,3 @@
+services:
+  droptica_field_widget_actions_demo.auto_content_generator:
+    class: Drupal\droptica_field_widget_actions_demo\Service\AutoContentGenerator

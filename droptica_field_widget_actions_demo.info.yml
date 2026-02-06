@@ -1,0 +1,5 @@
+name: Droptica Field Widget Actions Demo
+type: module
+description: Provides an auto-content field widget with a Generate action for text fields.
+core_version_requirement: ^10 || ^11
+package: Custom
